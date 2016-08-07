@@ -1,0 +1,3 @@
+# Project_tim3
+用来测试先提交commit to master之后是不是跟我想象中的现象一样！
+结果证明两种提交方式的结果是一样的，并且我个人认为第一种方式比第二种方式还要好一些。也就是说Project_romate的提交方式比Project_TIM3的提交方式要好一些。
